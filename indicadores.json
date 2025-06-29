@@ -1,0 +1,16 @@
+{
+  "florianopolis": {
+    "municipio": "Florianópolis",
+    "estado": "SC",
+    "pib_per_capita": 62235.10,
+    "expectativa_vida": 79.5,
+    "renda_media": 2800.00
+  },
+  "joinville": {
+    "municipio": "Joinville",
+    "estado": "SC",
+    "pib_per_capita": 45780.90,
+    "expectativa_vida": 77.2,
+    "renda_media": 2500.00
+  }
+}
